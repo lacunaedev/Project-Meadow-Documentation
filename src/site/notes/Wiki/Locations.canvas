@@ -1,0 +1,74 @@
+---
+{"dg-publish":true,"permalink":"/wiki/locations.canvas/","contentClasses":"canvas-page"}
+---
+
+<div id="Locationscanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Locationscanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Locationscanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-group " data-node-id="c2456e11ec17d1e7" style="transform: translate(-790px, -960px); width: 3910px; height: 3360px;  ">
+	<div class="canvas-node-label">The Meadow</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="24eadb0df7c486fe" style="transform: translate(240px, -560px); width: 1281px; height: 981px; --canvas-color: #53dfdd; ">
+	<div class="canvas-node-label">The Spiritwood</div>
+</div>
+<div class="canvas-node canvas-node-group " data-node-id="7fa5147a86823e02" style="transform: translate(-2400px, -1000px); width: 960px; height: 920px;  ">
+	<div class="canvas-node-label">General Notes</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="8583be3bf3fe2d65" data-file-path="X - Drafts/The Well.md" style="transform: translate(-542px, 496px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">The Well</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/x-drafts/the-well//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="27dd35c1fa63de4b" data-file-path="X - Misc/XXX/The Meadow.md" style="transform: translate(-2360px, -960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">The Meadow</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/x-misc/xxx/the-meadow//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="6bf0bbfb32e52999" data-file-path="X - Misc/XXX/The Garden.md" style="transform: translate(-542px, -160px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">The Garden</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/x-misc/xxx/the-garden//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="27d61fa52e83516b" data-file-path="X - Drafts/The Steam Geysers.md" style="transform: translate(-542px, 1040px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">The Steam Geysers</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/x-drafts/the-steam-geysers//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="885f233e18a19e52" data-file-path="X - Misc/XXX/The Spiritwood.md" style="transform: translate(321px, -400px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">The Spiritwood</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/x-misc/xxx/the-spiritwood//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
