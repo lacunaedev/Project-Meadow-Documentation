@@ -2,17 +2,16 @@
 {"dg-publish":true,"permalink":"/hub/","tags":["gardenEntry"]}
 ---
 
-/publ
-| File                                     | Created                   |
-| ---------------------------------------- | ------------------------- |
-| [[Untitled\|Untitled]]                | 1:29 AM - March 22, 2026  |
-| [[X - Misc/XXT/Location\|Location]]   | 12:14 AM - March 22, 2026 |
-| [[X - Misc/XXT/Character\|Character]] | 12:05 AM - March 22, 2026 |
-| [[Home\|Home]]                        | 1:39 AM - March 22, 2026  |
-
-{ .block-language-dataview}
+# Wiki
+--- 
+- [[Wiki/Acts.canvas\|Acts.canvas]]
+- [[Wiki/Characters.canvas\|Characters.canvas]]
+- [[Wiki/Locations.canvas\|Locations.canvas]]
+- [[Wiki/Lore.canvas\|Lore.canvas]]
+- [[Wiki/Quests.canvas\|Quests.canvas]]
 
 # Narrative Tag Glossary
+--- 
 
 | **Tag Name** | Description                                                                      |
 | ------------ | -------------------------------------------------------------------------------- |
