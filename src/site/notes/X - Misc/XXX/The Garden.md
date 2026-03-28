@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-misc/xxx/the-garden/","tags":["empty"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["empty"],"Backlinks":"[[Untitled Page]]"}}
+{"dg-publish":true,"permalink":"/x-misc/xxx/the-garden/","tags":["empty"]}
 ---
 
 # Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hub/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/hub/","tags":["gardenEntry"]}
 ---
 
 # Wiki

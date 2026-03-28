@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/narrative/quests/msq-00-the-eternal-hunt/","tags":["msq"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["msq"],"Backlinks":["[[X - Drafts/The Spiritwood\|The Spiritwood]]","[[Quest - A Disappearance in the Spiritwood.canvas]]"]}}
+{"dg-publish":true,"permalink":"/narrative/quests/msq-00-the-eternal-hunt/","tags":["msq"]}
 ---
 
 # Overview
@@ -11,7 +11,7 @@
 	- They see them in their wood, can never reach them no matter how hard they try.
 	- They believe [[X - Drafts/Algnosta\|Algnosta]] is involved.
 - Vel is passing through, needs to cross over, becomes involved with [[X - Drafts/Myo, The Hunter\|Myo, The Hunter]]
-	- They agree to help them so they can cross [[The Spiritwood]]
+	- They agree to help them so they can cross [[X - Drafts/The Spiritwood\|The Spiritwood]]
 - They kill [[X - Drafts/Algnosta\|Algnosta]], and realize the forest is saturated with the memoria it consumed, and the girl was actually a manifestation of it. 
 	- Post-twist, the wood is completely submerged, as the polyp is recreating the wood, and Myo must decide whether to allow it to happen, and live the dream again, or end it and move on.
 - How does Vel handle MSQ quests vs sub-quests

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-drafts/evelyn-would-be-hero/","tags":["vel"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["vel"],"Backlinks":["[[Vel, Heroic Incarnation]]","[[On Heroes & Their Paths]]"]}}
+{"dg-publish":true,"permalink":"/x-drafts/evelyn-would-be-hero/","tags":["vel"]}
 ---
 
 # Overview

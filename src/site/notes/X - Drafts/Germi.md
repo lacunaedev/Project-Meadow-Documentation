@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-drafts/germi/","tags":["enemy"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["enemy"],"Backlinks":null}}
+{"dg-publish":true,"permalink":"/x-drafts/germi/","tags":["enemy"]}
 ---
 
 # Overview

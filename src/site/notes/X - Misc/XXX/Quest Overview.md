@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-misc/xxx/quest-overview/","tags":["msq"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["msq"],"Backlinks":["[[Quest - A Disappearance in the Spiritwood.canvas]]"]}}
+{"dg-publish":true,"permalink":"/x-misc/xxx/quest-overview/","tags":["msq"]}
 ---
 
 # Overview

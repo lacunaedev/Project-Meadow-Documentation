@@ -33,19 +33,19 @@
 		<div class="canvas-node canvas-node-group has-color" data-node-id="ecb025b287b66806" style="transform: translate(-1720px, -840px); width: 1240px; height: 820px; --canvas-color: #fb464c; ">
 	<div class="canvas-node-label">Vel</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="b4f534f9b49025d9" data-file-path="X - Misc/XXX/Germi.md" style="transform: translate(-1030px, 530px); width: 660px; height: 700px; ">
+<div class="canvas-node canvas-node-file " data-node-id="b4f534f9b49025d9" data-file-path="X - Drafts/Germi.md" style="transform: translate(-1030px, 530px); width: 660px; height: 700px; ">
 	<div class="canvas-node-label">Germi</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/x-misc/xxx/germi//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/x-drafts/germi//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="b1459619981af97d" data-file-path="X - Misc/XXX/Myo, The Hunter.md" style="transform: translate(0px, -263px); width: 680px; height: 619px; ">
+<div class="canvas-node canvas-node-file " data-node-id="b1459619981af97d" data-file-path="X - Drafts/Myo, The Hunter.md" style="transform: translate(0px, -263px); width: 680px; height: 619px; ">
 	<div class="canvas-node-label">Myo, The Hunter</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/x-misc/xxx/myo-the-hunter//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/x-drafts/myo-the-hunter//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
@@ -56,11 +56,11 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="6753a3f7f5f48adf" data-file-path="X - Misc/XXX/Evelyn.md" style="transform: translate(-975px, -720px); width: 400px; height: 530px; ">
-	<div class="canvas-node-label">Evelyn</div>
+<div class="canvas-node canvas-node-file " data-node-id="6753a3f7f5f48adf" data-file-path="X - Drafts/Evelyn, Would-Be Hero.md" style="transform: translate(-975px, -720px); width: 400px; height: 530px; ">
+	<div class="canvas-node-label">Evelyn, Would-Be Hero</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/x-misc/xxx/evelyn//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/x-drafts/evelyn-would-be-hero//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
@@ -71,19 +71,19 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="af8fa06a83a1c419" data-file-path="X - Misc/XXX/Algnosta.md" style="transform: translate(1100px, -263px); width: 640px; height: 859px; ">
+<div class="canvas-node canvas-node-file " data-node-id="af8fa06a83a1c419" data-file-path="X - Drafts/Algnosta.md" style="transform: translate(1100px, -263px); width: 640px; height: 859px; ">
 	<div class="canvas-node-label">Algnosta</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/x-misc/xxx/algnosta//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/x-drafts/algnosta//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="3ae9fbb2af4ccc7a" data-file-path="X - Misc/XXX/Vel, Heroic Incarnation.md" style="transform: translate(-1640px, -720px); width: 400px; height: 530px; ">
+<div class="canvas-node canvas-node-file " data-node-id="3ae9fbb2af4ccc7a" data-file-path="X - Drafts/Vel, Heroic Incarnation.md" style="transform: translate(-1640px, -720px); width: 400px; height: 530px; ">
 	<div class="canvas-node-label">Vel, Heroic Incarnation</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/x-misc/xxx/vel-heroic-incarnation//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/x-drafts/vel-heroic-incarnation//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
