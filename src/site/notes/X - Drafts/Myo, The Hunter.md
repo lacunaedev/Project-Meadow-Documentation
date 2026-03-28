@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-drafts/myo-the-hunter/","tags":["hero"]}
+{"dg-publish":true,"permalink":"/x-drafts/myo-the-hunter/","tags":["hero"],"dg-note-properties":{"draft?":true,"author":"reverienest","tags":["hero"],"related to":["[[X - Drafts/The Spiritwood\|The Spiritwood]]"]}}
 ---
 
 # Overview
@@ -22,7 +22,7 @@
 **Sample Dialogue:**
 - “Hear me, vile creature! Flee and cower tonight - but just as the moon swallows the sun to bring night, my justice will consume you... and avenge them.”
 
->Myo is a hunter whose only prey are the ghosts of the past. A loved one, spirited away into the dark maw of [[X - Drafts/The Spiritwood\|The Spiritwood]], and the mysterious creature that haunts it. 
+>Myo is a hunter whose only prey are the ghosts of the past. A loved one, spirited away into the dark maw of [[The Spiritwood]], and the mysterious creature that haunts it. 
 >
 >However, such tales could not be further from the truth. There is only one prey that the Hunter has their sights on. The spirit of the wood itself, which feeds on travelers that make their way through the brush, and uses their memories to lure them deeper and deeper into the mist. Their unfortunate moniker of “The Reaper” is only due to their own failures, as the forest claims more victims, they are always a step too late to intervene, marking areas of tragedy with their sigil, both to honor the dead and to warn travelers away. It is said that on certain nights, they can be seen by a certain brook, near a ruined cabin, head bowed low as though mourning something. 
 >

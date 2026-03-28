@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-drafts/algnosta/","tags":["boss"]}
+{"dg-publish":true,"permalink":"/x-drafts/algnosta/","tags":["boss"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["boss"],"Backlinks":["[[The Spiritwood]]"]}}
 ---
 
 # Overview

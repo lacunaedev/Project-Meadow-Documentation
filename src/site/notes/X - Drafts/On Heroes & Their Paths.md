@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-drafts/on-heroes-and-their-paths/"}
+{"dg-publish":true,"permalink":"/x-drafts/on-heroes-and-their-paths/","dg-note-properties":{}}
 ---
 
 

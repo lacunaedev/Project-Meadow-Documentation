@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-drafts/the-well/","tags":["empty"]}
+{"dg-publish":true,"permalink":"/x-drafts/the-well/","tags":["empty"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["empty"],"Backlinks":"[[Untitled Page]]"}}
 ---
 
 # Overview

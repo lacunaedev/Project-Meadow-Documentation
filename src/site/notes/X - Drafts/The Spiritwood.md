@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-drafts/the-spiritwood/"}
+{"dg-publish":true,"permalink":"/x-drafts/the-spiritwood/","dg-note-properties":{}}
 ---
 
 
