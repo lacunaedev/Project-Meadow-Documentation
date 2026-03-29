@@ -1,0 +1,132 @@
+---
+{"dg-publish":true,"permalink":"/x-drafts/quest-a-disappearance-in-the-spiritwood.canvas/","contentClasses":"canvas-page","dg-note-properties":{}}
+---
+
+<div id="Quest_-_A_Disappearance_in_the_Spiritwoodcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Quest_-_A_Disappearance_in_the_Spiritwoodcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Quest_-_A_Disappearance_in_the_Spiritwoodcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M -280 915.5 C -230 915.5, -210 916, -160 916" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="d7f895961a886553"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 240 916 C 336 916, 384 916, 480 916" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="637a5aa4c8e8c9b0"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 680 1048 C 680 1108.8, 680 1139.2, 680 1200" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3311fe6a35852c38"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 880 916 C 984 916, 1036 916, 1140 916" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="f7b099db6626dece"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1322 1116 C 1322 1166, 1322 1190, 1322 1240" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="e8801ddfa3361c11"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1504 916 C 1622.4 916, 1681.6 916, 1800 916" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="5c879c58f82796e6"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 1944 1116 C 1944 1182, 1944 1215, 1944 1281" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="faa25458513840b9"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2088 916 C 2164.8 916, 2203.2 916, 2280 916" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="95c4f14859eb8379"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2480 1080 C 2480 1144.000312499237, 2479.5 1175.999687500763, 2479.5 1240" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="8a58abc23041e316"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 2680 916 C 2760.0002499996094 916, 2799.9997500003906 916.5, 2880 916.5" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ecc436d4aab432b0"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 3280 916.5 C 3376.0002083331074 916.5, 3423.9997916668926 916, 3520 916" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="289e1e632078b1a2"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="68709c1c01a5de17" style="transform: translate(-680px, 800px); width: 400px; height: 231px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-01.png" alt="SW-Q-01.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="d93b4e23e8348b44" style="transform: translate(-160px, 777px); width: 400px; height: 278px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-02.png" alt="SW-Q-02.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="1f1e757eb1185ad4" style="transform: translate(480px, 784px); width: 400px; height: 264px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-03.png" alt="SW-Q-03.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="54ac75bf2803474d" style="transform: translate(542px, 1200px); width: 276px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-3.1.png" alt="SW-Q-3.1.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f81bdf5b51830e94" style="transform: translate(1140px, 716px); width: 364px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-04.png" alt="SW-Q-04.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="9c6b9a94117e2a37" style="transform: translate(1122px, 1240px); width: 400px; height: 81px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-4.1.png" alt="SW-Q-4.1.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="4c9d1f7163dee46d" style="transform: translate(1800px, 716px); width: 288px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-05.png" alt="SW-Q-05.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="06eec02853845293" style="transform: translate(1744px, 1281px); width: 400px; height: 380px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-5.1.png" alt="SW-Q-5.1.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ea22846c8e93078c" style="transform: translate(2280px, 752px); width: 400px; height: 328px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-06.png" alt="SW-Q-06.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="bd225c9da5664e1c" style="transform: translate(2280px, 1240px); width: 399px; height: 63px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-6.1.png" alt="SW-Q-6.1.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="2e56e73bb9007b66" style="transform: translate(2880px, 731px); width: 400px; height: 371px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-07.png" alt="SW-Q-07.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="69ee412c4f3c3e14" style="transform: translate(3520px, 716px); width: 400px; height: 400px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/X%20-%20Misc/Images/SW-Q-7.1.png" alt="SW-Q-7.1.png" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="b4b3655237d588b4" data-file-path="X - Misc/XXX/Quest Overview.md" style="transform: translate(-680px, -560px); width: 920px; height: 1160px; ">
+	<div class="canvas-node-label">Quest Overview</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/x-misc/xxx/quest-overview//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>

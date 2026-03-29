@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/lore.canvas/","contentClasses":"canvas-page"}
+{"dg-publish":true,"permalink":"/wiki/lore.canvas/","contentClasses":"canvas-page","dg-note-properties":{}}
 ---
 
 <div id="Lorecanvas" class="canvas-wrapper hide">
@@ -26,6 +26,13 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
 			<iframe src="/x-drafts/on-heroes-and-their-paths//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="0161dfe8847404d6" style="transform: translate(100px, 460px); width: 260px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown=""></div>
 		</div>
 	</div>
 </div>
