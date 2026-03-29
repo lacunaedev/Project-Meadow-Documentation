@@ -9,6 +9,7 @@
 - [[Wiki/Locations.canvas\|Locations.canvas]]
 - [[Wiki/Lore.canvas\|Lore.canvas]]
 - [[Wiki/Quests.canvas\|Quests.canvas]]
+- [[X - Drafts/Quest - A Disappearance in the Spiritwood.canvas\|Quest - A Disappearance in the Spiritwood.canvas]]
 
 # Narrative Tag Glossary
 --- 
