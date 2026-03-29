@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/narrative/quests/msq-00-the-eternal-hunt/","tags":["msq"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["msq"],"Backlinks":["[[X - Drafts/The Spiritwood\|The Spiritwood]]","[[Quest - A Disappearance in the Spiritwood.canvas]]"]}}
+{"dg-publish":true,"permalink":"/narrative/quests/msq-00-the-eternal-hunt/","tags":["msq"],"dg-note-properties":{"Drafting?":true,"Owner":"reverienest","tags":["msq"],"Backlinks":["[[X - Drafts/The Spiritwood\|The Spiritwood]]","[[X - Drafts/Quest - A Disappearance in the Spiritwood.canvas\|Quest - A Disappearance in the Spiritwood.canvas]]"]}}
 ---
 
 # Overview
 --- 
+See: [[Quest - A Disappearance in the Spiritwood.canvas]]
 - The forest has suffered some kind of tragedy
 	- This tragedy is personal to the Hunter
 - [[X - Drafts/The Spiritwood\|The Spiritwood]] is haunted by strange apparitions, slowly being consumed by a ethereal ocean.
